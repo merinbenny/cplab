@@ -7,7 +7,7 @@ void main()
 {
 int number1;
 float number2,i;
-printf("enter the interger value and the float value:");
+printf("enter a interger value and  float value:");
 scanf("%d%f",&number1,&number2);
 i=prod(number1,number2);
 printf("the value is %f",i);
